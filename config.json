@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerppdate",
+        "uuid": 4577706,
+        "checksum": "6xyn2"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
